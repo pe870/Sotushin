@@ -1,0 +1,21 @@
+﻿2018/07/23 14:10:23 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\dere\Desktop\卒進作品\_TA\TA\TA\TA.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Main.cpp
+         Main.cpp
+     1>c:\users\dere\desktop\卒進作品\_ta\ta\ta\source\main.cpp(432): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+     1>c:\users\dere\desktop\卒進作品\_ta\ta\ta\source\main.cpp(544): warning C4305: '=' : 'double' から 'float' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dere\Desktop\卒進作品\_TA\TA\Debug\TA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dere\Desktop\卒進作品\_TA\TA\Debug\TA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dere\Desktop\卒進作品\_TA\TA\Debug\TA.lib" /MACHINE:X86 Debug\cCommon.obj
+         Debug\DebugText.obj
+         Debug\DX9Mesh.obj
+         Debug\Main.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Sprite2D.obj
+         TA.vcxproj -> C:\Users\dere\Desktop\卒進作品\_TA\TA\Debug\TA.exe
+     1>プロジェクト "C:\Users\dere\Desktop\卒進作品\_TA\TA\TA\TA.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.76

@@ -1,0 +1,10 @@
+Position.h(Main.cpp)
+constant.h(Main.h)‚Ì’Ç‰Á
+
+ƒ‚ƒfƒ‹éŒ¾i.hj
+m_aGround[G_MAX]¨LoadModel/Render
+m_aScafSqu¨LoadModel/Render
+m_aScafSquM¨LoadModel/Render
+
+ŠÖ”
+ScaffSqu()
