@@ -1,0 +1,21 @@
+﻿2018/08/08 9:23:07 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\海豹\Desktop\_TA_\TA\TA.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\新しいフォルダー\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Main.cpp
+         Main.cpp
+     1>c:\users\海豹\desktop\_ta_\ta\source\position.h(58): warning C4244: '初期化中' : 'double' から 'const float' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\_ta_\ta\source\main.cpp(381): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\新しいフォルダー\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\海豹\Desktop\_TA_\Debug\TA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\海豹\Desktop\_TA_\Debug\TA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\海豹\Desktop\_TA_\Debug\TA.lib" /MACHINE:X86 Debug\cCommon.obj
+         Debug\DebugText.obj
+         Debug\DX9Mesh.obj
+         Debug\Main.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Sprite2D.obj
+         TA.vcxproj -> C:\Users\海豹\Desktop\_TA_\Debug\TA.exe
+     1>プロジェクト "C:\Users\海豹\Desktop\_TA_\TA\TA.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.34
