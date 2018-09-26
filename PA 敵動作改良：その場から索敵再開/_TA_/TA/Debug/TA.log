@@ -1,0 +1,53 @@
+﻿2018/09/26 11:43:38 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\dere\Desktop\過去バージョン\敵\PA ③敵の西野カナ防止 - コピー\_TA_\TA\TA.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Main.cpp
+         Main.cpp
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\position.h(58): warning C4244: '初期化中' : 'double' から 'const float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(76): warning C4244: '引数' : 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(77): warning C4244: '引数' : 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(78): warning C4244: '引数' : 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(79): warning C4244: '引数' : 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(80): warning C4244: '引数' : 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(576): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(580): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(598): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(602): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(605): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(620): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(624): warning C4244: '+=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(921): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(922): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(923): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(924): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(928): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(933): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(939): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(944): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(977): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(978): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(979): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(980): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(984): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(989): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(995): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(1000): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(1194): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(1288): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(1291): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(1303): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\過去バージョン\敵\pa ③敵の西野カナ防止 - コピー\_ta_\ta\source\main.cpp(1361): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dere\Desktop\過去バージョン\敵\PA ③敵の西野カナ防止 - コピー\_TA_\Debug\TA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dere\Desktop\過去バージョン\敵\PA ③敵の西野カナ防止 - コピー\_TA_\Debug\TA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dere\Desktop\過去バージョン\敵\PA ③敵の西野カナ防止 - コピー\_TA_\Debug\TA.lib" /MACHINE:X86 Debug\cCommon.obj
+         Debug\DebugText.obj
+         Debug\DX9Mesh.obj
+         Debug\Main.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Sprite2D.obj
+         TA.vcxproj -> C:\Users\dere\Desktop\過去バージョン\敵\PA ③敵の西野カナ防止 - コピー\_TA_\Debug\TA.exe
+     1>プロジェクト "C:\Users\dere\Desktop\過去バージョン\敵\PA ③敵の西野カナ防止 - コピー\_TA_\TA\TA.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.00
