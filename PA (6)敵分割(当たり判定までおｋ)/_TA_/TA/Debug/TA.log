@@ -1,0 +1,49 @@
+﻿2018/10/15 21:10:52 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\海豹\Desktop\敵分割(設置のみ)\_TA_\TA\TA.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\新しいフォルダー\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Main.cpp
+         Main.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(418): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(526): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(527): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(528): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(529): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(533): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(538): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(544): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(549): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(582): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(583): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(584): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(585): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(589): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(594): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(600): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(605): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(679): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(680): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(690): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(691): warning C4244: '+=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(707): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\敵分割(設置のみ)\_ta_\ta\source\main.cpp(762): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\新しいフォルダー\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\海豹\Desktop\敵分割(設置のみ)\_TA_\Debug\TA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\海豹\Desktop\敵分割(設置のみ)\_TA_\Debug\TA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\海豹\Desktop\敵分割(設置のみ)\_TA_\Debug\TA.lib" /MACHINE:X86 Debug\cCommon.obj
+         Debug\CRay.obj
+         Debug\DebugText.obj
+         Debug\DInput.obj
+         Debug\DX9Mesh.obj
+         Debug\Enemy.obj
+         Debug\Main.obj
+         Debug\Obstacle.obj
+         Debug\Player.obj
+         Debug\Scaffold.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Sprite2D.obj
+         TA.vcxproj -> C:\Users\海豹\Desktop\敵分割(設置のみ)\_TA_\Debug\TA.exe
+     1>プロジェクト "C:\Users\海豹\Desktop\敵分割(設置のみ)\_TA_\TA\TA.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.26
