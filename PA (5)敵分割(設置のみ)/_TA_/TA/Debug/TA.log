@@ -1,0 +1,57 @@
+﻿2018/10/15 19:06:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\海豹\Desktop\当たり判定now\_TA_\TA\TA.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\新しいフォルダー\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\CRay.cpp Source\Enemy.cpp Source\Main.cpp Source\Player.cpp Source\Sprite.cpp Source\Sprite2D.cpp Source\cCommon.cpp
+         Main.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(392): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(500): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(501): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(502): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(503): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(507): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(512): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(518): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(523): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(556): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(557): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(558): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(559): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(563): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(568): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(574): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(579): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(653): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(654): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(664): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(665): warning C4244: '+=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(681): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\海豹\desktop\当たり判定now\_ta_\ta\source\main.cpp(736): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+         Enemy.cpp
+         コードを生成中...
+         スキップ中... (関連する変更は検出されませんでした)
+         cCommon.cpp
+         Sprite2D.cpp
+         Sprite.cpp
+         Player.cpp
+         CRay.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\新しいフォルダー\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\海豹\Desktop\当たり判定now\_TA_\Debug\TA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\海豹\Desktop\当たり判定now\_TA_\Debug\TA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\海豹\Desktop\当たり判定now\_TA_\Debug\TA.lib" /MACHINE:X86 Debug\cCommon.obj
+         Debug\CRay.obj
+         Debug\DebugText.obj
+         Debug\DInput.obj
+         Debug\DX9Mesh.obj
+         Debug\Enemy.obj
+         Debug\Main.obj
+         Debug\Obstacle.obj
+         Debug\Player.obj
+         Debug\Scaffold.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Sprite2D.obj
+         TA.vcxproj -> C:\Users\海豹\Desktop\当たり判定now\_TA_\Debug\TA.exe
+     1>プロジェクト "C:\Users\海豹\Desktop\当たり判定now\_TA_\TA\TA.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.27
