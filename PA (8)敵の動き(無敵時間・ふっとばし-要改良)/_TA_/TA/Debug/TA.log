@@ -1,0 +1,59 @@
+﻿2018/10/19 16:21:44 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\dere\Desktop\敵の動き(うまいこといった)\_TA_\TA\TA.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source\Main.cpp
+         Main.cpp
+         c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(277): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(278): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(340): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(341): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(352): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(353): warning C4244: '+=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(364): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(365): warning C4244: '+=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(376): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(377): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(513): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(621): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(622): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(623): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(624): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(628): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(633): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(639): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(644): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(679): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(680): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(681): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(682): warning C4244: '=' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(686): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(691): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(697): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(702): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(778): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(779): warning C4244: '-=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(789): warning C4305: '-=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(790): warning C4244: '+=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(806): warning C4305: '+=' : 'double' から 'float' へ切り詰めます。
+     1>c:\users\dere\desktop\敵の動き(うまいこといった)\_ta_\ta\source\main.cpp(889): warning C4305: '引数' : 'double' から 'FLOAT' へ切り詰めます。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dere\Desktop\敵の動き(うまいこといった)\_TA_\Debug\TA.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\dere\Desktop\敵の動き(うまいこといった)\_TA_\Debug\TA.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dere\Desktop\敵の動き(うまいこといった)\_TA_\Debug\TA.lib" /MACHINE:X86 Debug\cCommon.obj
+         Debug\CRay.obj
+         Debug\DebugText.obj
+         Debug\DInput.obj
+         Debug\DX9Mesh.obj
+         Debug\Enemy.obj
+         Debug\Main.obj
+         Debug\Obstacle.obj
+         Debug\Player.obj
+         Debug\Scaffold.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\Sprite2D.obj
+         TA.vcxproj -> C:\Users\dere\Desktop\敵の動き(うまいこといった)\_TA_\Debug\TA.exe
+     1>プロジェクト "C:\Users\dere\Desktop\敵の動き(うまいこといった)\_TA_\TA\TA.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.26
